@@ -12,7 +12,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
     "web-vitals": "^1.1.1",
-    "homepage": "https://WingLamMSS.github.io/my-task-list"
+    "homepage": "https://winglammss.github.io/my-task-list"
   },
   "scripts": {
     "start": "react-scripts start",
